@@ -1,0 +1,45 @@
+ping                    "are these computers even connected?"
+curl                    make any HTTP request you want
+httpie                  like curl but easier ("http get")
+wget                    download files
+tc                      on a linux router: slow down ur bro's internet (and much more) 
+dig/nslookup            what's the IP for that domain? (DNS Query)
+whois                   is this domain registered?
+ssh                     secure shell
+scp                     copy files over a SSH connection
+rsync                   copy only changed files (works over SSH)
+ngrep                   grep for your network
+tcpdump                 "show me all packets on port 80"
+wireshark               look at those packets in a GUI
+tshark
+tcpflow
+ifconfig
+route
+ip
+arp
+mitmproxy
+nmap
+zenmap
+p0f
+openvpn
+wireguard
+nc
+socat
+telnet
+ftp/sftp
+netstat/ss/lsof/fuser
+iptables
+nftables
+hping3
+traceroute/mtr
+tcptraceroute
+ethtool
+iw/iwconfig
+sysctl
+openssl
+stunnel
+iptraf/nethogs/iftop/ntop
+ab/nload/iperf
+python3 -m http server
+ipcalc
+nsenter
