@@ -2,17 +2,17 @@
 ## Linux Shell
 | Subdomain | Difficulty | Challenge | Solution |
 |:---------:|:----------:|:---------:|:--------:|
-|Bash|Easy|[Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem)|[bash-tutorials-lets-echo.sh](shell/bash-tutorials-lets-echo.sh)|
-|Bash|Easy|[Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem)|[bash-tutorials---looping-and-skipping.sh](shell/bash-tutorials---looping-and-skipping.sh)|
-|Bash|Easy|[A Personalized Echo](https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo/problem)|[bash-tutorials---a-personalized-echo.sh](shell/bash-tutorials---a-personalized-echo.sh)|
-|Bash|Easy|[Looping with Numbers](https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers/problem)|[bash-tutorials---looping-with-numbers.sh](shell/bash-tutorials---looping-with-numbers.sh)|
-|Bash|Easy|[The World of Numbers](https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers/problem)|[bash-tutorials---the-world-of-numbers.sh](shell/bash-tutorials---the-world-of-numbers.sh)|
-|Bash|Easy|[Comparing Numbers](https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers/problem)|[bash-tutorials---comparing-numbers.sh](shell/bash-tutorials---comparing-numbers.sh)|
-|Bash|Easy|[Getting started with conditionals](https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals/problem)|[bash-tutorials---getting-started-with-conditionals.sh](shell/bash-tutorials---getting-started-with-conditionals.sh)|
-|Bash|Easy|[More on Conditionals](https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/problem)|[bash-tutorials---more-on-conditionals.sh](shell/bash-tutorials---more-on-conditionals.sh)|
-|Bash|Medium|[Arithmetic Operations](https://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations/problem)|[bash-tutorials---arithmetic-operations.sh](shell/bash-tutorials---arithmetic-operations.sh)|
-|Bash|Medium|[Compute the Average](https://www.hackerrank.com/challenges/bash-tutorials---compute-the-average/problem)|[bash-tutorials---compute-the-average.sh](shell/bash-tutorials---compute-the-average.sh)|
-|Bash|Hard|[Functions and Fractals - Recursive Trees - Bash!](https://www.hackerrank.com/challenges/fractal-trees-all/problem)|[fractal-trees-all.sh](shell/fractal-trees-all.sh)|
+|Bash|Easy|[Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem)|[bash-tutorials-lets-echo.sh](sh/Bash%20Tutorials/lets-echo.sh)|
+|Bash|Easy|[Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem)|[bash-tutorials---looping-and-skipping.sh](sh/Bash%20Tutorials/looping-and-skipping.sh)|
+|Bash|Easy|[A Personalized Echo](https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo/problem)|[bash-tutorials---a-personalized-echo.sh](sh/Bash%20Tutorials/a-personalized-echo.sh)|
+|Bash|Easy|[Looping with Numbers](https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers/problem)|[bash-tutorials---looping-with-numbers.sh](sh/Bash%20Tutorials/looping-with-numbers.sh)|
+|Bash|Easy|[The World of Numbers](https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers/problem)|[bash-tutorials---the-world-of-numbers.sh](sh/Bash%20Tutorials/the-world-of-numbers.sh)|
+|Bash|Easy|[Comparing Numbers](https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers/problem)|[bash-tutorials---comparing-numbers.sh](sh/Bash%20Tutorials/comparing-numbers.sh)|
+|Bash|Easy|[Getting started with conditionals](https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals/problem)|[bash-tutorials---getting-started-with-conditionals.sh](sh/Bash%20Tutorials/getting-started-with-conditionals.sh)|
+|Bash|Easy|[More on Conditionals](https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/problem)|[bash-tutorials---more-on-conditionals.sh](sh/Bash%20Tutorials/more-on-conditionals.sh)|
+|Bash|Medium|[Arithmetic Operations](https://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations/problem)|[bash-tutorials---arithmetic-operations.sh](sh/Bash%20Tutorials/arithmetic-operations.sh)|
+|Bash|Medium|[Compute the Average](https://www.hackerrank.com/challenges/bash-tutorials---compute-the-average/problem)|[bash-tutorials---compute-the-average.sh](sh/Bash%20Tutorials/compute-the-average.sh)|
+|Bash|Hard|[Functions and Fractals - Recursive Trees - Bash!](https://www.hackerrank.com/challenges/fractal-trees-all/problem)|[fractal-trees-all.sh](sh/Bash%20Tutorials/fractal-trees-all.sh)|
 |Text Processing|Easy|[Cut #1](https://www.hackerrank.com/challenges/text-processing-cut-1/problem)|[text-processing-cut-1.sh](shell/text-processing-cut-1.sh)|
 |Text Processing|Easy|[Cut #2](https://www.hackerrank.com/challenges/text-processing-cut-2/problem)|[text-processing-cut-2.sh](shell/text-processing-cut-2.sh)|
 |Text Processing|Easy|[Cut #3](https://www.hackerrank.com/challenges/text-processing-cut-3/problem)|[text-processing-cut-3.sh](shell/text-processing-cut-3.sh)|
