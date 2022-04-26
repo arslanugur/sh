@@ -1,6 +1,6 @@
 #Linux Commands
 
-#Linux Path Cheats
+# Linux Path Cheats
 /bin - user binaries
 /sbin - system binaries
 /etc - configuration files
@@ -17,7 +17,7 @@
 /media - removable devices
 /srv - service data
 
-#System Info
+# System Info
 date: shows the current date and time
 uptime: shows current uptime
 df: shows disk usage
@@ -30,7 +30,7 @@ free: show memory and swap usage
 cat/proc/cpuinfo: shows cpu info
 cat/proc/meminfo: shows memory info
 
-#Linux Network Commands
+# Linux Network Commands
 ifup/ifdown: used to enable or disable interfaces
 nslookup: used also for dns query
 route: to check the IP routing table
